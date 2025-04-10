@@ -1,0 +1,20 @@
+.heading {
+    font-size: 30px;
+}
+
+.image {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.back {
+    background-color: #282829;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
